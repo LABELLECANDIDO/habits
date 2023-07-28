@@ -34,7 +34,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O HABITS é um app para ajudar a rastrear os habitos.
 
-
+- [Visite o projeto online](https://labellecandido.github.io/habits)
 ## 🔖 Layout
 
 Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/community/file/1187422022288947321).
